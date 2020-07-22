@@ -15,7 +15,7 @@ def assembled_aoh
     # { name:  "Pat Monteseian", occupation: "Staff" },
     # { name:  "Kate Gompert", occupation: "None" },
     # { name:  "Bruce Green", occupation: "Fan of Mildred" },
-    {DON_G}, {JOELLE_VD}, {PAT_M}, {KATE_G}, {BRUCE_G}
+    DON_G, JOELLE_VD, PAT_M, KATE_G, BRUCE_G
     
   ]
 end
